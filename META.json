@@ -4,7 +4,7 @@
       "Jiro Nishiguchi <jiro@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v2.1.1",
+   "generated_by" : "Minilla/v2.1.3",
    "license" : [
       "bsd"
    ],
@@ -63,21 +63,21 @@
    "provides" : {
       "Text::Ux" : {
          "file" : "lib/Text/Ux.pm",
-         "version" : "0.02"
+         "version" : "0.10"
       }
    },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/spiritloose/Text-Ux/issues"
+         "web" : "https://git@github.com/spiritloose/Text-Ux/issues"
       },
-      "homepage" : "https://github.com/spiritloose/Text-Ux",
+      "homepage" : "https://git@github.com/spiritloose/Text-Ux",
       "repository" : {
-         "url" : "git://github.com/spiritloose/Text-Ux.git",
-         "web" : "https://github.com/spiritloose/Text-Ux"
+         "url" : "git://git@github.com/spiritloose/Text-Ux.git",
+         "web" : "https://git@github.com/spiritloose/Text-Ux"
       }
    },
-   "version" : "0.02",
+   "version" : "0.10",
    "x_contributors" : [
       "Norikazu Kato <s_wool@mac.com>"
    ]
